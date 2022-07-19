@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\obj\Debug\LinecomparsionUC3.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\obj\Debug\LinecomparsionUC3.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\obj\Debug\LinecomparsionUC3.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\bin\Debug\LinecomparsionUC3.exe.config
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\bin\Debug\LinecomparsionUC3.exe
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\bin\Debug\LinecomparsionUC3.pdb
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\obj\Debug\LinecomparsionUC3.exe
+C:\Users\amakuma6\source\repos\LinecomparsionUC3\LinecomparsionUC3\obj\Debug\LinecomparsionUC3.pdb
